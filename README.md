@@ -1,4 +1,4 @@
-## Script para criação de tabelas em 
+## Script para criação de tabelas.
 
 ✔ Script para criação da tabela "**Planetas**":
 
